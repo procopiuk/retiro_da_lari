@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(156, 50, 50);
+    color: white;
+    font-size: 25px;
+    padding: 2%;
+}
+.chamada{
+    background-color: rgb(129, 62, 62)
+    padding-bottom: 3em;
+    padding-top: 2em;
+    display: flex; 
+    justify-content: center;
+}
+
