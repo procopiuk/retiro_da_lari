@@ -78,6 +78,6 @@ header {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(129, 129, 204);
+    border: 3px solid rgb(61, 114, 68);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra adicionada */
 }
